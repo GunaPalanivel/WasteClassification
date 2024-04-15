@@ -39,11 +39,11 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/GunaPalanivel/WasteClassification.git
+   git clone https://github.com/GunaPalanivel/gitpod.git
    ```
 2. **Navigate to the project directory**:
    ```
-   cd WasteClassification
+   cd gitpod
    ```
 3. **Open the HTML file in a web browser**:
    - Ensure you have a working webcam connected.
